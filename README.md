@@ -36,7 +36,7 @@ brew install sdl2 sdl2_image sdl2_ttf cJSON
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/oct4pie/anemu.git
+   git clone --recurse-submodules https://github.com/oct4pie/anemu.git
    ```
 2. **Navigate to the cloned directory**:
    ```bash
