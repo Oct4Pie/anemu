@@ -13,7 +13,7 @@ This project attempts to enhance [scrcpy](https://github.com/Genymobile/scrcpy),
 - **Interactive Toolbar:** A new toolbar that includes quick access buttons for functions like minimize, close, and other customizable actions.
 
 ## Demo
-
+https://github.com/Oct4Pie/anemu/assets/65843843/d8e5f8bc-ee9b-4393-bcce-4ecaa11730dd
 
 ## Getting Started
 
